@@ -32,6 +32,10 @@ Ticket - Ticket Number
 Fare - Passenger Fare (British pound)
 
 Embarked - Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+
+# Notebooks
+ https://colab.research.google.com/drive/19Dq6T0jGroy9dViJbxJRTxHZA9C40MMh?usp=sharing
+ 
  
 #Naive Bayes Classifier
 
