@@ -33,7 +33,8 @@ Fare - Passenger Fare (British pound)
 
 Embarked - Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
 
-# Notebooks
+# Notebook
+
  https://colab.research.google.com/drive/19Dq6T0jGroy9dViJbxJRTxHZA9C40MMh?usp=sharing
  
  
@@ -54,3 +55,7 @@ Task : classification of spam emails (2 class)
 Number of attributes : 57
 Attributes type : float
 Number of instances : 4601
+
+# Notebook
+
+https://colab.research.google.com/drive/1wbUhZBGGZufql9Qgez_ZpVp6YHBUtm3Q?usp=sharing
